@@ -1,2 +1,2 @@
 # SocialCodeVoice
-![flow](https://imgur.com/ncM8XZ7 "Flow")
+![flow](https://i.imgur.com/ncM8XZ7.jpeg "Flow")
